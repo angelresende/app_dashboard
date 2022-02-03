@@ -22,8 +22,8 @@ class Dashboard {
 class Conexao {
 	private $host = 'localhost:3360';
 	private $dbname = 'dashboard';
-	private $user = 'root';
-	private $pass = 'oracle';
+	private $user = '';
+	private $pass = '';
 
 	public function conectar() {
 		try {
