@@ -1,5 +1,3 @@
-# app_dashboard
-
 <h1 align="center"> **:bar_chart: DASHBOARD** </h1>
 
 <h2 align="center" style="color:black"> LAYOUT DO APP</h2>
